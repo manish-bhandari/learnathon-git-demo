@@ -5,3 +5,5 @@ This is my other account!
 This is line 5. I will ask you to make a change here later.
 
 This is line 7. You will also be making a change here later.
+
+Added a new line.
